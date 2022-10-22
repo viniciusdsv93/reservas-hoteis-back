@@ -1,0 +1,1 @@
+{"version":3,"file":"getAllHotelController.js","sourceRoot":"","sources":["../../../src/controllers/getAllHotelController.ts"],"names":[],"mappings":";;;AACA,uEAAoE;AAEpE,MAAM,kBAAkB,GAAG,IAAI,uCAAkB,EAAE,CAAC;AAEpD,MAAa,qBAAqB;IACjC,MAAM,CAAC,OAAgB,EAAE,QAAkB;QAC1C,OAAO,kBAAkB,CAAC,OAAO,CAAC,OAAO,EAAE,QAAQ,CAAC,CAAC;IACtD,CAAC;CACD;AAJD,sDAIC"}
