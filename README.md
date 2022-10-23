@@ -76,8 +76,8 @@ atualizados os dados conforme informado na requisição.
 
 ## Execução
 
-<!-- Foi realizado o deploy da aplicação em cloud na plataforma Heroku, por meio do link:
-https://simbiose-api-crud.herokuapp.com/swagger-ui.html -->
+Foi realizado o deploy da aplicação em cloud na plataforma Heroku, por meio do link:
+https://reservas-hotel-api.herokuapp.com/api-docs/
 
 Para executar a aplicação localmente, é preciso primeiro iniciar o container docker com a
 instância do PostgreSQL, onde são persistidos os dados.
